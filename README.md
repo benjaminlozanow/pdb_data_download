@@ -1,6 +1,6 @@
 # Download data from the PDB
 
-The purpose of this project is to provide with an alternative to *rsync* to download data from the PDB https://files.wwpdb.org/pub/pdb/data/structures/divided/mmCIF after I had a problem with my university firewall to download the mmCIF database to run AlphaFold locally. Nevertheless, it should work to download other type of data from this same source.
+The purpose of this project is to provide an alternative to *rsync* to download data from the PDB https://files.wwpdb.org/pub/pdb/data/structures/divided/mmCIF after I had a problem with my university firewall to download the mmCIF database to run AlphaFold locally. Nevertheless, it should work to download other type of data from this same source.
 
 ## Before you start
 

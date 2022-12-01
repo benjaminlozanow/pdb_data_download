@@ -37,6 +37,14 @@ chmod +x unzip_flatten.sh
 ./unzip_flatten.sh ~/path_to_data_directory
 ```  
 
+## The Error I got
+
+While executing the [download_pdb_mmcif.sh](https://github.com/deepmind/alphafold/blob/main/scripts/download_pdb_mmcif.sh) I recieved the following error:
+
+> rsync: failed to connect to rsync.rcsb.org (132.249.210.234): Connection timed out (110)
+rsync error: error in socket IO (code 10) at clientserver.c(125) [Receiver=3.1.2]
+
+
 ## Contribution
 
 Feel free to optimize/modify the code to have better or different results.

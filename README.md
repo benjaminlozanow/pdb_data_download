@@ -37,7 +37,7 @@ chmod +x unzip_flatten.sh
 ./unzip_flatten.sh ~/path_to_data_directory
 ```  
 
-## The Error I got
+## The Error I got using *rsync*
 
 While executing the [download_pdb_mmcif.sh](https://github.com/deepmind/alphafold/blob/main/scripts/download_pdb_mmcif.sh) I recieved the following error:
 
